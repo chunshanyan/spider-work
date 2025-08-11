@@ -1,0 +1,7 @@
+Scrapy==2.11.1
+SQLAlchemy==2.0.31
+PyYAML==6.0.2
+python-dateutil==2.9.0.post0
+APScheduler==3.10.4
+scrapy-user-agents==0.1.1
+fake-useragent==1.5.1
